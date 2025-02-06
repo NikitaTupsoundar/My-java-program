@@ -33,9 +33,9 @@ public class BasicCalculator {
 			break;
 
 		// case to subtract two numbers
-		case '-':
+	/* 	case '-':
 			o = num1 - num2;
-			break;
+			break;*/
 
 		// case to multiply two numbers
 		case '*':
